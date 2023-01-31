@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvow_faq=self.webpackChunkvow_faq||[]).push([[9708],{1006:o=>{o.exports=JSON.parse('{"permalink":"/vow-faq/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

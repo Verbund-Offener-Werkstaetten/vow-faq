@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvow_faq=self.webpackChunkvow_faq||[]).push([[3238],{5093:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/vow-faq/blog/tags/hello","allTagsPath":"/vow-faq/blog/tags","count":2}')}}]);
