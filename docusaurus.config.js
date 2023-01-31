@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'FAQ´s - Verbund offener Werkstätten',
   tagline: 'Answers are cool!',
   favicon: 'img/favicon.ico',
 
