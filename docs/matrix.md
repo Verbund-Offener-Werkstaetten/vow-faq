@@ -5,7 +5,7 @@ title: Matrix
 
 ## Was ist Matrix?
 
-Matrix ist eine [föderierte Messaging-Technologie](https://matrix.org). Das bedeutet, Nutzer können sich über das Matrix-Netzwerk miteinander unterhalten – sowohl in Direktnachrichten als auch in Gruppenräumen (ähnlich wie bei Slack, Discord oder Microsoft Teams). Im Gegensatz zu diesen kommerziellen Anbietern ist Matrix aber lediglich ein Open-Source-Standard und keine konkrete Anwendung. Deswegen gibt es eine Vielzahl von Programmen und Apps, die Nutzer verwenden können – ganz nach den persönlichen Vorlieben.
+<details>Matrix ist eine [föderierte Messaging-Technologie](https://matrix.org). Das bedeutet, Nutzer können sich über das Matrix-Netzwerk miteinander unterhalten – sowohl in Direktnachrichten als auch in Gruppenräumen (ähnlich wie bei Slack, Discord oder Microsoft Teams). Im Gegensatz zu diesen kommerziellen Anbietern ist Matrix aber lediglich ein Open-Source-Standard und keine konkrete Anwendung. Deswegen gibt es eine Vielzahl von Programmen und Apps, die Nutzer verwenden können – ganz nach den persönlichen Vorlieben.</details>
 
 
 ## Welches Programm/App soll ich nutzen?
