@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'FAQs - Verbund offener Werkstätten',
+  title: 'FAQs - Verbund Offener Werkstätten',
   tagline: 'Alles was du wissen musst!',
   favicon: 'img/favicon.ico',
 
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'verbund-offener-werkstatten', // Usually your GitHub org/user name.
+  organizationName: 'Verbund-Offener-Werkstaetten', // Usually your GitHub org/user name.
   projectName: 'vow-faq', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Verbund-Offener-Werkstatten/vow-faq/edit/main/',
+            'https://github.com/Verbund-Offener-Werkstaetten/vow-faq/edit/main/',
         },
         blog: false,
         theme: {
@@ -66,7 +66,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/Verbund-Offener-Werkstatten/vow-faq',
+            href: 'https://github.com/Verbund-Offener-Werkstaetten/vow-faq',
             label: 'GitHub',
             position: 'right',
           },
