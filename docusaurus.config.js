@@ -43,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Verbund-Offener-Werkstatten/vow-faq',
+            'https://github.com/Verbund-Offener-Werkstatten/vow-faq/edit/main/',
         },
         blog: false,
         theme: {
